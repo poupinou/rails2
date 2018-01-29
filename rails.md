@@ -1,4 +1,4 @@
-![logo ruby](ruby.JPEG)
+![logo ruby](https://www.vectorlogo.zone/logos/ruby/ruby-card.png)
 
 ## différence site statique et dynamique 
 ***
